@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator= NewDesignator=input motor1
+Change Component Designator: OldDesignator=. NewDesignator=input motor2
+Change Component Designator: OldDesignator=.. NewDesignator=power
+Change Component Designator: OldDesignator=motor 1 NewDesignator=motor 1 out put
+Change Component Designator: OldDesignator=motor 2 NewDesignator=motor 2 out put
+Added Room: Name=Sheet3

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=enable 2 Pin=input motor2-1
+Removed Pin From Net: NetName=input3 Pin=input motor2-2
+Added Pin To Net: NetName=input3 Pin=input motor2-1
+Added Pin To Net: NetName=enable 2 Pin=input motor2-2
+Added Room: Name=Sheet3
